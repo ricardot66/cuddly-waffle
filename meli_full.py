@@ -9,7 +9,7 @@ import re
 today = date.today()
 
 p_cat = []
-client = ScraperAPIClient('5bccdaccabd41d848741374da5c0117c')
+client = ScraperAPIClient('Insert client here')
 
 cats = ['MLM1367', 'MLM1368', 'MLM1384', 'MLM1246', 'MLM1039', 'MLM1051', 'MLM1648', 'MLM1144', 'MLM1276', 'MLM1575',
        'MLM1000', 'MLM186863', 'MLM1574', 'MLM1499', 'MLM1182', 'MLM3937', 'MLM1132', 'MLM3025', 'MLM1168', 'MLM1430',
